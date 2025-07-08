@@ -1,4 +1,6 @@
-### Данное задание не обязательно для выполнения
+https://kovtoniukdiana.github.io/Minesweeper/
+
+
 
 ## Задание
 
